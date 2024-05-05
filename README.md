@@ -1,4 +1,4 @@
-== Module creator     
+## Module creator     
 
 	http://www.magentocommerce.com/wiki/custom_module_with_custom_database_table
 
@@ -10,7 +10,7 @@
 	http://penkin.co.uk                     
 	mailto: penkinv@gmail.com
 	
-== Installation
+## Installation
 
  1. Uncompress archive to directory 
 
